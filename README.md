@@ -52,7 +52,7 @@ Azure Machine Learning ワークスペース の環境を設定するには：
 
 <a name="gitclone"></a>
 ```
-!git clone https://github.com/rytokuga/ai-fundamentals
+!git clone https://github.com/wentingd/ai-fundamentals
 ```
 
  - セルの横にある **▷** ボタンを使用して、それに含めたコードを実行します。 これにより、GitHub から演習ファイルがクローンされます。
